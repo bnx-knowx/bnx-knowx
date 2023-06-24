@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bnx-knowx
-- 👀 I’m interested in ... ai and deep learning stuff
-- 🌱 I’m currently learning ... ai and deep learning on fast.ai
+- 👀 I’m interested in ... we3 development 
+- 🌱 I’m currently learning ... solidity and other related proramming at metacrafters
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
